@@ -1,1 +1,3 @@
-# -
+shumeipai_sever.py是树莓派部分的代码，在树莓派上运行
+shumeipai_client.py是需要运行的代码
+服务端和客户端的host参数需要修改，以确保能够连接成功
